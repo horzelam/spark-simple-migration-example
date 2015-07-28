@@ -1,4 +1,4 @@
-## Original example is here is based on:
+## Cassandra/Spark setup is based on:
 https://github.com/rssvihla/spark_commons/blob/master/examples/spark_bulk_operations/src/main/scala/pro/foundev/scala/CassandraCapable.scala
 
 ## TODO
